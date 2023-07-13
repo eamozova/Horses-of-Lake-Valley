@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a game about horses, with main focus on breeding according to how real life horse genetics work. Games that by definition should include genetics and actually put some thought into the genetics system are my passion. I used a few sources in my research into the horse genetics, but the main one was https://www.etalondx.com/horse-color-simulator. This simulator was presented in an easily understandable form and showed enough coat variations, so I decided to build my project around the system similar to this one.
+This project was done as a final project for the CS50 course, finished in August, 2021. It is a game about horses, with main focus on breeding according to how real life horse genetics work. Games that by definition should include genetics and actually put some thought into the genetics system are my passion. I used a few sources in my research into the horse genetics, but the main one was https://www.etalondx.com/horse-color-simulator. This simulator was presented in an easily understandable form and showed enough coat variations, so I decided to build my project around the system similar to this one.
 
 Originally I planned to focus just on the breeding, training and competing mechanics, but later I felt the game was too lacking, so I decided to implement at least one mini-game which was connected to a quest. The prize for completing the quest is getting a supernatural horse - kelpie, instead of originally planned unicorn, because the quest was tied to the lake mini-game and this made more sense. These supernatural horses also introduce a smaller addition to how genetics work - it is possible to breed new kelpies and hybrids that look somewhat like both of these life states.
 
